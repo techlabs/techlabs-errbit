@@ -16,6 +16,7 @@ config/newrelic.yml
 *.rbx
 bin
 bundle
+db/seeds.rb
 coverage
 *#
 .ruby-version
